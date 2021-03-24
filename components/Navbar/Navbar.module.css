@@ -1,0 +1,16 @@
+.daftar {
+  margin-right: 20px;
+}
+.masuk {
+  /* font-size: 25px;
+  font-weight: 700; */
+  color: inherit;
+  transition: color 0.15s ease, border-color 0.15s ease;
+}
+
+.masuk:hover,
+.masuk:focus {
+  color: white;
+  border-color: white;
+  text-decoration: none;
+}
